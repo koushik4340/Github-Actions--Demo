@@ -1,3 +1,5 @@
 x = 5
-y = 10
-print(x, y)
+if x == 4:
+    print("Value of x is 4")
+else:
+    print("Value of x is not 4")
